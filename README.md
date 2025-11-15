@@ -1,4 +1,4 @@
-# Travel Recommendation System
+# Intelligent-Travel-Recommendation-System
 
 A **simple travel destination recommender** built with Python and Flask.
 
